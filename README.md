@@ -1,8 +1,8 @@
 # 📋 Gestion RH
 **Application de gestion du personnel — offline, sans installation**
 
-> Application web hors ligne de gestion du personnel pour administrations publiques à ressources limitées.
-> Offline HR management web app for public administrations with limited resources.
+> Application web hors ligne de gestion du personnel.
+> Offline HR management web app.
 
 ---
 
@@ -74,7 +74,7 @@ const MDP_STOCKE = hashSimple('admin1234');
 
 ### Overview
 
-**Gestion RH** is a single-file HTML/JS offline web application for day-to-day staff management in an administrative directorate. It replaces paper registers and Excel spreadsheets with a lightweight digital tool that works without internet access, without a server, and without installation.
+**Gestion RH** is a single-file HTML/JS offline web application for day-to-day staff management. It replaces paper registers and Excel spreadsheets with a lightweight digital tool that works without internet access, without a server, and without installation.
 
 Developed and deployed in production by **Loua Monné Victorine KPAN**, Records Manager and HR Officer to the Regional Director (Ministry of Culture and Francophonie, Côte d'Ivoire).
 
